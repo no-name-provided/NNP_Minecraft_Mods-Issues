@@ -15,10 +15,7 @@ body:
     validations:
       required: true
   - type: markdown
-  attributes:
-    value: "## Welcome!"
-- type: markdown
-  attributes:
+   attributes:
     value: |
       **Describe the bug**
       A clear and concise description of what the bug is. Include both what happened and what you expected to happen.
