@@ -1,6 +1,6 @@
 ---
-name: Bug report
-about: Report a bug.
+name: [Outdated] Bug report
+about: [Outdated - Please use other template] - Report a bug.
 title: "[BUG] Your Issue Here"
 labels: bug, Minecraft
 assignees: ''
