@@ -4,17 +4,6 @@ about: [Outdated - Please use other template] - Report a bug.
 title: "[BUG] Your Issue Here"
 labels: bug, Minecraft
 assignees: ''
-body: 
-- type: dropdown
-  id: mod
-  attributes:
-    label: Which mod does this report concern?
-    options:
-      - NNP Easy Farming
-      - Potion Fruit
-      - Functional Fluids
-  validations:
-    required: true
 ---
 
 **Describe the bug**
