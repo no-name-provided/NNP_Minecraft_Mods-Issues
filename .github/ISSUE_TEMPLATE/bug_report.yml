@@ -1,0 +1,16 @@
+name: Bug Report
+description: Use this to report bugs.
+title: "[Bug] "
+labels: ["bug"]
+body:
+  - type: dropdown
+    id: mod
+    attributes:
+      label: Mod
+      options:
+        - "NNP Easy Farming"
+        - "Potion Fruit"
+        - "Functional Fluids"
+      default: 0
+    validations:
+      required: true
