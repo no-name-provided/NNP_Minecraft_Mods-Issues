@@ -8,10 +8,9 @@ body:
     attributes:
       label: Mod
       options:
-      - "NNP Easy Farming"
-      - "Potion Fruit"
-      - "Functional Fluids"
-      default: 0
+        - "NNP Easy Farming"
+        - "Potion Fruit"
+        - "Functional Fluids"
     validations:
       required: true
   - type: markdown
