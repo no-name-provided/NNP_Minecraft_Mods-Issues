@@ -15,48 +15,48 @@ body:
       default: 0
     validations:
       required: true
-  - type: markdown
+  - type: textarea
     attributes:
       value: |
         
         **Describe the bug**
-      description: |
-        A clear and concise description of what the bug is. Include both what happened and what you expected to happen.
-  - type: markdown
+      placeholder: |
+        A clear and concise placeholder of what the bug is. Include both what happened and what you expected to happen.
+  - type: textarea
     attributes:
       value: |
         
         **To Reproduce**
-      description: |
+      placeholder: |
         Steps to reproduce the behavior:
         1. Go to '...'
         2. Click on '....'
         3. Scroll down to '....'
         4. See error
-  - type: markdown
+  - type: textarea
     attributes:
       value: |
         
         **Expected behavior**
-      description: |
-        A clear and concise description of what you expected to happen.
+      placeholder: |
+        A clear and concise placeholder of what you expected to happen.
         
         **Screenshots**
         If applicable, add screenshots to help explain your problem.
-  - type: markdown
+  - type: textarea
     attributes:
       value: |
         
         **Versions**
-      description: |
+      placeholder: |
         Mod Version:
         Minecraft Version:
         NeoForge Version:
         Link to modpack (if relevant):
-  - type: markdown
+  - type: textarea
     attributes:
       value: |
         
         **Additional Information**
-      description: |
+      placeholder: |
         Add any other context about the problem here.
