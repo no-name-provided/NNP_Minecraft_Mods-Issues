@@ -17,14 +17,14 @@ body:
       required: true
   - type: textarea
     attributes:
-      value: |
+      label: |
         
         **Describe the bug**
       placeholder: |
         A clear and concise placeholder of what the bug is. Include both what happened and what you expected to happen.
   - type: textarea
     attributes:
-      value: |
+      label: |
         
         **To Reproduce**
       placeholder: |
@@ -35,7 +35,7 @@ body:
         4. See error
   - type: textarea
     attributes:
-      value: |
+      label: |
         
         **Expected behavior**
       placeholder: |
@@ -45,7 +45,7 @@ body:
         If applicable, add screenshots to help explain your problem.
   - type: textarea
     attributes:
-      value: |
+      label: |
         
         **Versions**
       placeholder: |
@@ -55,7 +55,7 @@ body:
         Link to modpack (if relevant):
   - type: textarea
     attributes:
-      value: |
+      label: |
         
         **Additional Information**
       placeholder: |
