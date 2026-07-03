@@ -40,6 +40,9 @@ body:
         **Expected behavior**
       placeholder: |
         A clear and concise placeholder of what you expected to happen.
+  - type: textarea
+    attributes:
+      label: |
         
         **Screenshots**
         If applicable, add screenshots to help explain your problem.
